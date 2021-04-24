@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python, Node.JS, and Java
-- 😄 Pronouns: He, him, they
 - ⚡ Fun fact: I've been coding for 7 years, but only been serious about it for the last 2 years
 - 📫 How to reach me: Discord: za#1474
 - 🔭 I’m currently working on [some python functions](https://github.com/jpie726/my-functions "Python functions") and configuring [Arch](https://archlinux.org "Arch Linux website")
