@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python, C, C#, and C++
+- 🌱 I’m currently learning Python, C, and Rust
 - ⚡ Fun fact: I've been coding for 7 years, but only been serious about it for the last 2 years
 - 📫 How to reach me: Discord: za#1474
 - 🔭 I’m currently working on a network scanner, DLL injector, C compiler, and configuring [Arch](https://archlinux.org "Arch Linux website")
